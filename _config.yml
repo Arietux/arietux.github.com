@@ -1,0 +1,30 @@
+encoding:         UTF-8
+
+#markdown:         kramdown
+#kramdown:
+#  input:          GFM
+#  syntax_highlighter: rouge
+markdown:         redcarpet
+redcarpet:
+  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:      pygments
+
+permalink:        none
+version:          2.1
+
+title:            "Arie Setiawan"
+tagline:          "I'm Not Giving A FSCK"
+description:      "You can't always get what you want"
+url:              http://arietux.github.io
+author:
+  name:           "Arie Setiawan"
+  email:          gitarkusatu@gmail.com
+  url:            http://arietux.github.io
+
+github:
+  repo:           https://github.com/arietux/arietux.github.io
+
+twitter:
+  username:       afterNewbie
+
+google_analytics: UA-66656535-3
