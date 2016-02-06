@@ -5,11 +5,6 @@ description: mengubah nama kartu jaringan ke semula di archlinux
 keywords: archlinux, kartu jaringan, enp3s0, wlp2s0
 ---
 
-
-[Source](http://www.kawainaaa.com/mengganti-nama-interface-jaringan-ke-default-di-archlinux/ "Permalink to Mengganti nama interface jaringan arch linux")
-
-# Mengganti nama interface jaringan arch linux
-
 > Update: Semenjak systemd v209, nama rulesnya di ganti menjadi
 > 80-net-setup-link.rules
 
