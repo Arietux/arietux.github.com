@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: An archive of this blog's notes.
 keywords: blog archive, notes
 ---
