@@ -9,14 +9,17 @@ Pernahkah sebelumnya anda mendengar kata **Tiling WM** ? Tiling WM ( Window Mana
 
 Misalnya anda sebagai pengguna desktop environtmen biasa ( Kde, Xfce, Gnome, Unity,dll)  saat anda ingin membuat sebuah program aplikasi, tentunya aplikasi yang akan anda buka adalah text editor ( sebagai media untuk menulis skrip pemrograman anda ) dan browser ( sebagai media untuk mencari referensi mengenai pemrograman yang akan anda buat). Dari permisalan tersebut, berikut beberapa hal yang dilakukan oleh kebanyakan pengguna dalam menggunakan text editor dan broser dalam keperluan tadi, yaitu :
 
-1. Anda hanya menampilkan text editor secara penuh ( maximize ) di layar desktop anda. Dan saat anda membutuhkan referensi dari internet, anda harus mengeklik browser di panel anda atau menekan tombol  kombinasi keyboard alt+tab untuk membuka browser guna untuk melihat referensi. Hal tersebut tidak efisien karena anda harus bolak balik pindah aplikasi antara text editor dan browser.
-![mengapa anda harus menggunakan tiling wm][1]
+1\. Anda hanya menampilkan text editor secara penuh ( maximize ) di layar desktop anda. Dan saat anda membutuhkan referensi dari internet, anda harus mengeklik browser di panel anda atau menekan tombol  kombinasi keyboard alt+tab untuk membuka browser guna untuk melihat referensi. Hal tersebut tidak efisien karena anda harus bolak balik pindah aplikasi antara text editor dan browser.
 
-2. Anda akan menampilkan browser secara penuh lalu menampilkan text editor. Nah disini lah terjadinya aksi tumpang tindih antar jendela, tentunya untuk melihat referensi sekaligus menggunakan text editor, maka akan menyesuaikan ukuran jendela text editor anda agar referensi yang anda buka dari browser kelihatan. Hal ini tidak efisien, selain karena sebagian artikel tertutup oleh text editor, ukuran jendela text editor yang relatif kecil membuat anda sedikit tidak nyaman dalam membuat program.
-![alasan mengapa anda harus menggunakan tiling wm][2]  
+<img src="{{ site.baseurl }}/images/2015/08/Screenshot_2015-08-26_19-21-41.png" alt="preview" style="width: 600px;"/>
 
-3. Anda akan mengatur jendela browser dan text editor ke dalam 2 bagian untuk mempermudah dalam membuat program. cukup efisien tapi ribet, karena dalam point ini anda harus mengatur ukuran jendela aplikasi menggunakan mouse dengan manual. Yup, *"anda harus menggunakan mouse dan mengarahkan pointer ke sisi jendela lalu mendrag ke sisi lain untuk mengatur ukuran jendela sesuai dengan yang anda kehendaki"*. Okelah, kalau untuk mengukur 2 jendela aplikasi setengah layar anda, anda bisa mengatur tanpa harus ribet mengarahkan pointer ke sisi jendela, cukup dengan mendrag jendela aplikasi ke pinggir layar desktop anda, maka ukuran jendela aplikasi akan otomatis memenuhi setengah layar anda. Tapi bagaimana jika anda ingin mengatur ukuran jendela aplikasi lebih lebar dari pada jendela browser ? bagai mana jika aplikasi yang anda buka lebih dari 2 ? maka dengan terpaksa anda harus mengatur ukuran jendela aplikasi tersebut secara menual satu per satu, ehmm.. ehmm.. saya ulangi, **Satu per satu !** 
-![alasan mengapa anda harus menggunakan tiling wm][3]
+2\. Anda akan menampilkan browser secara penuh lalu menampilkan text editor. Nah disini lah terjadinya aksi tumpang tindih antar jendela, tentunya untuk melihat referensi sekaligus menggunakan text editor, maka akan menyesuaikan ukuran jendela text editor anda agar referensi yang anda buka dari browser kelihatan. Hal ini tidak efisien, selain karena sebagian artikel tertutup oleh text editor, ukuran jendela text editor yang relatif kecil membuat anda sedikit tidak nyaman dalam membuat program.
+
+<img src="{{ site.baseurl }}/images/2015/08/Screenshot_2015-08-26_19-22-17.png" alt="preview" style="width: 600px;"/>
+
+3\. Anda akan mengatur jendela browser dan text editor ke dalam 2 bagian untuk mempermudah dalam membuat program. cukup efisien tapi ribet, karena dalam point ini anda harus mengatur ukuran jendela aplikasi menggunakan mouse dengan manual. Yup, *"anda harus menggunakan mouse dan mengarahkan pointer ke sisi jendela lalu mendrag ke sisi lain untuk mengatur ukuran jendela sesuai dengan yang anda kehendaki"*. Okelah, kalau untuk mengukur 2 jendela aplikasi setengah layar anda, anda bisa mengatur tanpa harus ribet mengarahkan pointer ke sisi jendela, cukup dengan mendrag jendela aplikasi ke pinggir layar desktop anda, maka ukuran jendela aplikasi akan otomatis memenuhi setengah layar anda. Tapi bagaimana jika anda ingin mengatur ukuran jendela aplikasi lebih lebar dari pada jendela browser ? bagai mana jika aplikasi yang anda buka lebih dari 2 ? maka dengan terpaksa anda harus mengatur ukuran jendela aplikasi tersebut secara menual satu per satu, ehmm.. ehmm.. saya ulangi, **Satu per satu !** 
+
+<img src="{{ site.baseurl }}/images/2015/08/Screenshot_2015-08-26_19-29-47.png" alt="preview" style="width: 600px;"/>
 
 Dari 3 point diatas, ***efisien*** lebih merujuk pada penghematan waktu dan tenaga. *"Ah masnya lebay banget deh, beberapa detik kebuang untuk geser jendela aplikasi ga masalah mah"*. Ya untuk sebagian orang hal ini mungkin akan di anggap lebay, tapi bagi orang yang menganut paham "***Waktu adalah uang***" maka hal ini sangat lah penting walaupun hanya **1 detik**.
 
@@ -27,7 +30,7 @@ Dari 3 point diatas, ***efisien*** lebih merujuk pada penghematan waktu dan tena
 
 Selain soal _efisiensi,_ ada lagi keuntungan yang dapat anda ambil dari sebuah **Tiling WM** yaitu borderless ( tidak ada border ) ini akan membuat layar anda tampak semakin luas, apalagi jika anda hanya mempunyai resolusi layar yang kecil misalnya 1024×800, inti dari Borderless yaitu _**Hemat ruang Layar**_.
 
-![Kenapa anda harus menggunakan tiling wm][4]
+<img src="{{ site.baseurl }}/images/2015/08/Screenshot_2015-08-26_21-22-32.png" alt="preview" style="width: 600px;"/>
 
 **Tidak Hanya Itu!** masih banyak lagi keuntungan yang akan anda dapatkan saat menggunakan **Tiling WM** selain efisiensi dan borderless, yaitu :
 
@@ -38,7 +41,7 @@ Definisi Mouseless disini yaitu anda tidak perlu menggunakan mouse dalam semua a
 ####Hemat Penggunaan CPU dan Memory :
 Bagi anda yang memiliki spesifikasi cpu dan memory RAM yang rendah, tiling wm akan berjalan cepat serta pemakaian cpu dan ram yang rendah.
 
-![alasan mengapa anda harus menggunakan tiling wm][5]
+<img src="{{ site.baseurl }}/images/2015/08/Screenshot_2015-08-26_21-35-17.png" alt="preview" style="width: 600px;"/>
 
 penggunaan cpu dan ram pada tiling wm xmonad
 
@@ -56,10 +59,3 @@ Tiling WM juga bukan hanya **Xmonad**, masih banyak lagi Tiling WM selain Xmonad
 Demikianlah penjelasan dan opini dari saya mengenai "Alasan kenapa anda harus menggunakan Tiling WM", semoga tulisan saya ini dapat berguna bagi anda. Saya mohon maaf jika ada yang tidak berkenan di hati anda atas tulisan saya baik secara sengaja maupun tidak sengaja dalam tulisan saya.
 
 Terimakasih.
-
-[1]: http://kawainaaa.com/wp-content/uploads/2015/08/Screenshot_2015-08-26_19-21-41-300x169.png
-[2]: http://kawainaaa.com/wp-content/uploads/2015/08/Screenshot_2015-08-26_19-22-17-300x169.png
-[3]: http://kawainaaa.com/wp-content/uploads/2015/08/Screenshot_2015-08-26_19-29-47-300x169.png
-[4]: http://kawainaaa.com/wp-content/uploads/2015/08/Screenshot_2015-08-26_21-22-32-300x169.png
-[5]: http://kawainaaa.com/wp-content/uploads/2015/08/Screenshot_2015-08-26_21-35-17-300x72.png
-

@@ -4,7 +4,7 @@ title: pemasangan cisco packet tracer di ubuntu 15.04
 description: instalasi cisco packet tracer
 keywords: packettracer, ubuntu, 15.04
 ---
-![cisco packet tracer][1]
+<img src="{{ site.baseurl }}/images/2015/06/Screenshot-from-2015-06-12-222249.png" alt="preview" style="width: 350px;"/>
 
 Cisco Packet Tracer pada dasarnya adalah sebuah aplikasi simulator yang memungkinkan kita untuk berlatih serta belajar mengenai cisco router tanpa harus membeli alat yang umumnya memiliki harga yang mahal.
 
@@ -38,6 +38,5 @@ Oke, setelah installasi saya menemukan masalah sedikit yaitu Cisco Packet Tracer
 
 Sekian dan Terima Kasih.
 
-[1]: {{ site.baseurl }}/images/2015/06/Screenshot-from-2015-06-12-222249.png
 [2]: https://drive.google.com/uc?export=download&amp;confirm=S5Mt&amp;id=0B9IVGyxtTpZZVnBQSjJQZ0VHSUk
   

@@ -44,4 +44,4 @@ Nah sekarang coba restart sistemnya, dan sekarang anda sudah bisa menggunakan sc
 
 terima kasih.
 
-[1]: http://kawainaaa.com/wp-content/uploads/2015/08/Acer_CB5-311_series_touchpad.jpg
+[1]: {{ site.baseurl }}/images/2015/08/Acer_CB5-311_series_touchpad.jpg

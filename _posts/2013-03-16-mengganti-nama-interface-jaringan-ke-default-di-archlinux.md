@@ -23,7 +23,7 @@ Kemudian keliling keliling forum archlinux, ternyata dapet pencerahan. untuk men
 sudo ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules
 {% endhighlight %}
 
-atau bisa juga dengan menambahkan baris **net.ifnames=0 ** di kernel line, seperti gambar dibawah ini.
+atau bisa juga dengan menambahkan baris **net.ifnames=0** di kernel line, seperti gambar dibawah ini.
 
 ![][1]
 

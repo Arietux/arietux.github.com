@@ -5,7 +5,7 @@ description: Sedikit informasi tentang Arie Setiawan dan Blog ini.
 keywords: tentang arie setiawan
 ---
 
-![About](http://arietux.github.io/images/about.jpg)
+![About]({{ site.baseurl }}/images/about.jpg)
 
 #### Saya Siapa ? Saya dimana ?
 
