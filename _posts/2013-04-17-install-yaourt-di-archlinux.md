@@ -17,14 +17,18 @@ Mengupdate paket aplikasi yang di instal dari AUR :
 
 1\. ubah file pacman.conf
 
-    [archlinuxfr]
-    SigLevel = Never
-    Server = http://repo.archlinux.fr/$arch
+{% highlight sh %}
+[archlinuxfr]
+SigLevel = Never
+Server = http://repo.archlinux.fr/$arch
+{% endhighlight %}
 
 2\. instal yaourt
 
-    sudo pacman -Syu
-    sudo pacman -S yaourt
+{% highlight sh %}
+sudo pacman -Syu
+sudo pacman -S yaourt
+{% endhighlight %}
 
 #### Penyelesaian Masalah
 
@@ -32,7 +36,7 @@ Jika saat di tengah proses kompil aplikasi terhenti dengan error "application: t
 
 Hal tersebut bisa disiasati dengan cara mengatur **tmpdir** pada file /etc/yaourtrc, dengan mengubah/menambahkan baris berikut :
 
-    TMPDIR="/customtmp" # sesuaikan folder
+{% highlight sh %}TMPDIR="/customtmp" # sesuaikan folder{% endhighlight %}
 
 Maka selesailah sudah proses instalasi aplikasi yaourt ini, untuk informasi lebih lengkap silahkan lihat referensi dibawah.
 

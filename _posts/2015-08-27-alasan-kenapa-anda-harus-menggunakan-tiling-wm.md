@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Alasan kenapa anda harus menggunakan Tiling WM di linux.
-description: penjelasan mengenai tiling wm
+title: Alasan anda harus menggunakan Tiling WM di linux.
+description: alasan mengapa anda harus menggunakan tiling wm
 keywords: archlinux, linux, opini, xmonad
 ---
 
