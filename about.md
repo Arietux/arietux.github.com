@@ -5,9 +5,7 @@ description: Sedikit informasi tentang Arie Setiawan dan Blog ini.
 keywords: tentang arie setiawan
 ---
 
-<center><img src="http://www.kawainaaa.com/wp-content/uploads/2015/09/aku-e1441287010166-277x300.png" alt="Smiley face" align="middle">
-Maaf buat om Hasif fotonya saya crop :P
-</center>
+![About](http://arietux.github.io/images/about.jpg)
 
 #### Saya Siapa ? Saya dimana ?
 
