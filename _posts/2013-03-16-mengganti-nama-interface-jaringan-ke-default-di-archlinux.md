@@ -24,7 +24,9 @@ Interface yang berubah adalah :
 
 Kemudian keliling keliling forum archlinux, ternyata dapet pencerahan. untuk mengembalikan nama interface jaringan kita perlu membuat file **80-net-setup-link.rules ** di folder **/etc/udev/rules.d/**
 
-    sudo ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules
+{% highlight bash linenos %}
+sudo ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules
+{% endhighlight %}
 
 atau bisa juga dengan menambahkan baris **net.ifnames=0 ** di kernel line, seperti gambar dibawah ini.
 
