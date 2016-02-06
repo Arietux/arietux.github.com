@@ -108,7 +108,7 @@ http://superuser.com/questions/649220/a-wifi-ap-with-a-single-nic
 https://wiki.archlinux.org/index.php/Software_access_point#Requirements  
 http://askubuntu.com/questions/72989/how-to-share-my-wifi-internet-via-wifi
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2015/09/Screenshot_2015-09-09_01-08-11.png
-[2]: http://www.kawainaaa.com/wp-content/uploads/2015/09/Screenshot_2015-09-09_01-17-50.png
+[1]: {{ site.baseurl }}/images/2015/09/Screenshot_2015-09-09_01-08-11.png
+[2]: {{ site.baseurl }}/images/2015/09/Screenshot_2015-09-09_01-17-50.png
 [3]: https://github.com/oblique/create_ap
-[4]: http://www.kawainaaa.com/wp-content/uploads/2015/09/Screenshot_2015-09-09_01-17-20-300x121.png
+[4]: {{ site.baseurl }}/images/2015/09/Screenshot_2015-09-09_01-17-20.png

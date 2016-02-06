@@ -5,7 +5,7 @@ description: mengkonfigurasi touchpad elantech
 keywords: elantech, touchpad, linux
 ---
 
-![elantech touchpad][1]
+<img src="{{ site.baseurl }}/images/2015/08/Acer_CB5-311_series_touchpad.jpg" alt="touchpad" style="width: 350px;"/>
 
 Udah pada pernah liat kan model touchpad seperti gambar diatas ? Yup, laptop keluaran terbaru sekarang sudah mengimplementasikan touchpad model tersebut. Tombol klik kiri/kanan sudah menyatu dengan touchpad, yang membuat tampilan touchpad ini terlihat simpel dan minimalis. Namun pada distro linux umumnya touchpad ini tidak terkonfigurasi dengan benar, contohnya seperti tidak bisa scrolling.
 
@@ -44,4 +44,4 @@ Nah sekarang coba restart sistemnya, dan sekarang anda sudah bisa menggunakan sc
 
 terima kasih.
 
-[1]: http://kawainaaa.com/wp-content/uploads/2015/08/Acer_CB5-311_series_touchpad-300x169.jpg
+[1]: http://kawainaaa.com/wp-content/uploads/2015/08/Acer_CB5-311_series_touchpad.jpg

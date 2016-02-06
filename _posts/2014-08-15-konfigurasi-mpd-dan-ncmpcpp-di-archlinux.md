@@ -164,9 +164,9 @@ Referensi :
 https://wiki.archlinux.org/index.php/ncmpcpp#Different_views  
 http://dotshare.it/category/mpd/ncmpcpp/
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A25-3A23.png
-[2]: http://www.kawainaaa.com/wp-content/uploads/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A33-3A48.png
-[3]: http://www.kawainaaa.com/wp-content/uploads/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A41-3A10.png
-[4]: http://www.kawainaaa.com/wp-content/uploads/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A42-3A37.png
-[5]: http://www.kawainaaa.com/wp-content/uploads/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A42-3A50.png
-[6]: http://www.kawainaaa.com/wp-content/uploads/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A43-3A04.png
+[1]: {{ site.baseurl }}/images/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A25-3A23.png
+[2]: {{ site.baseurl }}/images/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A33-3A48.png
+[3]: {{ site.baseurl }}/images/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A41-3A10.png
+[4]: {{ site.baseurl }}/images/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A42-3A37.png
+[5]: {{ site.baseurl }}/images/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A42-3A50.png
+[6]: {{ site.baseurl }}/images/2014/08/Screenshot-2Bfrom-2B2014-08-15-2B10-3A43-3A04.png

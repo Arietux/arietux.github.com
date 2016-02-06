@@ -50,7 +50,7 @@ kemudian uji coba apakah dnscrypt berhasil berjalan dengan sempurna.
 
 ![dnscrypt][4]
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2015/06/Screenshot_2015-06-27_19-20-21.png
-[2]: http://kawainaaa.com/wp-content/uploads/2015/06/Screenshot_2015-06-27_19-07-19-300x71.png
-[3]: http://kawainaaa.com/wp-content/uploads/2015/06/Screenshot_2015-06-27_19-08-38-300x152.png
-[4]: http://kawainaaa.com/wp-content/uploads/2015/06/Screenshot_2015-06-27_19-13-37-300x102.png
+[1]: {{ site.baseurl }}/images/2015/06/Screenshot_2015-06-27_19-20-21.png
+[2]: {{ site.baseurl }}/images/2015/06/Screenshot_2015-06-27_19-07-19.png
+[3]: {{ site.baseurl }}/images/2015/06/Screenshot_2015-06-27_19-08-38.png
+[4]: {{ site.baseurl }}/images/2015/06/Screenshot_2015-06-27_19-13-37.png

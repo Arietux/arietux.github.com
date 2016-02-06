@@ -80,8 +80,8 @@ kamu bisa melihat informasi mengenai ADB dengan menjalankan perintah **"man adb"
 ![][3]
 
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2013/06/Screen_50-300x81.png
-[2]: http://www.kawainaaa.com/wp-content/uploads/2013/06/Screen_51-300x74.png
-[3]: http://www.kawainaaa.com/wp-content/uploads/2013/06/Screen_52-249x300.png
+[1]: {{ site.baseurl }}/images/2013/06/Screen_50.png
+[2]: {{ site.baseurl }}/images/2013/06/Screen_51.png
+[3]: {{ site.baseurl }}/images/2013/06/Screen_52.png
   
 

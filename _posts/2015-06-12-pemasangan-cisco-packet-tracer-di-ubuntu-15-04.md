@@ -38,6 +38,6 @@ Oke, setelah installasi saya menemukan masalah sedikit yaitu Cisco Packet Tracer
 
 Sekian dan Terima Kasih.
 
-[1]: http://kawainaaa.com/wp-content/uploads/2015/06/Screenshot-from-2015-06-12-222249-300x256.png
+[1]: {{ site.baseurl }}/images/2015/06/Screenshot-from-2015-06-12-222249.png
 [2]: https://drive.google.com/uc?export=download&amp;confirm=S5Mt&amp;id=0B9IVGyxtTpZZVnBQSjJQZ0VHSUk
   

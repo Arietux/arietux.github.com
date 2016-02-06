@@ -69,15 +69,15 @@ Liat gambar dibawah untuk contoh flashdisk yg saya format.
 
 ![][12]
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-30-08-AM-300x164.png
-[2]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-30-45-AM-300x164.png
-[3]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-31-04-AM-300x164.png
-[4]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-31-20-AM-300x164.png
-[5]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-31-37-AM-300x164.png
-[6]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-31-48-AM-300x164.png
-[7]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-32-57-AM-300x156.png
-[8]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-33-13-AM-300x156.png
-[9]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-33-40-AM-300x156.png
-[10]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-34-22-AM-300x47.png
-[11]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-35-17-AM-300x49.png
-[12]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-03062013-10-36-23-AM.png
+[1]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-30-08-AM.png
+[2]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-30-45-AM.png
+[3]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-31-04-AM.png
+[4]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-31-20-AM.png
+[5]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-31-37-AM.png
+[6]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-31-48-AM.png
+[7]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-32-57-AM.png
+[8]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-33-13-AM.png
+[9]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-33-40-AM.png
+[10]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-34-22-AM.png
+[11]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-35-17-AM.png
+[12]: {{ site.baseurl }}/images/2013/03/Screenshot-03062013-10-36-23-AM.png

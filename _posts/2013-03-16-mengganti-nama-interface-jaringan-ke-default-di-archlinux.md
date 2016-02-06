@@ -29,5 +29,5 @@ atau bisa juga dengan menambahkan baris **net.ifnames=0 ** di kernel line, seper
 
 Untuk informasi lebih lanjut silahkan menuju ke [halaman ini][2]
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2013/03/Screenshot-2Bfrom-2B2014-08-15-2B09-3A49-3A17.png
+[1]: {{ site.baseurl }}/images/2013/03/Screenshot-2Bfrom-2B2014-08-15-2B09-3A49-3A17.png
 [2]: http://www.freedesktop.org/wiki/Software/systemd/PredictableNetworkInterfaceNames

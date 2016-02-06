@@ -53,4 +53,4 @@ Referensi :
 
  - http://archlinuxarm.org/platforms/armv7/broadcom/raspberry-pi-2
 
-[1]: http://www.kawainaaa.com/wp-content/uploads/2015/03/Logo_of_Arch_Linux_ARM-300x67.png
+[1]: {{ site.baseurl }}/images/2015/03/Logo_of_Arch_Linux_ARM.png
