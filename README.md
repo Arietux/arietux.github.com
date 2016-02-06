@@ -1,6 +1,6 @@
 # Version 2.x
 
-This repo contains the source code of my site, which is built with [Jekyll](http://jekyllrb.com/) and generously hosted free on GitHub. Thanks to [Font Awesome](https://fortawesome.github.io/Font-Awesome/) for the awesome icons and [Fira](https://github.com/mozilla/Fira) fonts by **Mozilla** for the awesome typeface.
+My blog using [Jekyll](http://jekyllrb.com/) and generously hosted free on GitHub. 
 
 **URL:** [http://heiswayi.github.io](http://heiswayi.github.io)
 
@@ -22,6 +22,3 @@ Lorem ipsum dolor sit amet, commodo diceret interpretaris mel ex, fuisset verter
 # License
 
 `_post/` and `images/` folders are copyrights of **Heiswayi Nrird** (aka me). You may not reuse anything therein without my permission. Everything else is [MIT licensed](LICENSE.md), unless otherwise stated.
-
----
-Handcrafted by [Heiswayi Nrird](http://heiswayi.github.io) with love.
