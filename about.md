@@ -15,7 +15,7 @@ Perkenalkan, Nama saya Arie Setiawan. Sehari-hari saya di panggil dengan nama Ar
 
 Urusan status, sekarang saya statusnya <del>_single_</del> mahasiswa aktif di salah satu kampus di Medan, letaknya di Jl. xxx no 69 ( udah semester 4 😉  ).
 
-Saya sendiri tinggal di rumah orang tua letaknya di pinggiran kota Medan, tau _**klumpang**_ ? ( _hah ! apaa ? klumpang ? saya tak tau apa itu ). _ Yah pokoknya saya tinggal di klumpang, sebelah sebelahan itu sama kelambir  😕 ( Apaan lagi itu kelambir ? hah wkwkwk ).
+Saya sendiri tinggal di rumah orang tua letaknya di pinggiran kota Medan, tau _**klumpang**_ ? ( _hah ! apaa ? klumpang ? saya tak tau apa itu_). Yah pokoknya saya tinggal di klumpang, sebelah sebelahan itu sama kelambir  😕 ( Apaan lagi itu kelambir ? hah wkwkwk ).
 
 Hoby saya yaitu  ngoprek, nulis, ngobrol, sama tidur, baca manga, dan banyak lagi. Soal sekolah saya dulu ? saya sekolah di _**SMPN 1 Hamparan Perak**_ terus lanjut nya saya di _**SMK Ar-Rahman Gaperta Ujung**_. Jadi kalau ada adik kelas saya yang cewe dan secara tak sengaja ataupun disengaja ( takdir mungkin ? ) silahkan mampir ke [_halaman kontak_][2] nanti kita kenalan lebih jauh lagi   untuk yang cowo boleh juga ngekontak saya, tapi jangan aneh-aneh  😯
 
