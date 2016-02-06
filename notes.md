@@ -5,6 +5,7 @@ keywords: blog archive, notes
 ---
 
 <div class="posts notes">
+  <div class="hrhead"></div>
   {% for post in site.posts %}
     <div class="post-list">
       <div class="post-list-date"><small>{{ post.date | date: "%b %d, %Y" }}</small></div>
