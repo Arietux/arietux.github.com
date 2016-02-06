@@ -32,7 +32,7 @@ sudo pacman -S yaourt
 
 #### Penyelesaian Masalah
 
-Jika saat di tengah proses kompil aplikasi terhenti dengan error "application: there is no enough space on /tmp", hal ini disebabkan karena yaourt menggunakan **/tmp ** (di mount sebagai **tmpfs** ) untuk mengkompil aplikasi. **tmpfs** sendiri adalah file system yang secara default menggunakan 50% RAM. jadi hal ini paling sering dijumpai oleh laptop/komputer yang memiliki ukuran RAM yang rendah.
+Jika saat di tengah proses kompil aplikasi terhenti dengan error "application: there is no enough space on /tmp", hal ini disebabkan karena yaourt menggunakan **/tmp** (di mount sebagai **tmpfs** ) untuk mengkompil aplikasi. **tmpfs** sendiri adalah file system yang secara default menggunakan 50% RAM. jadi hal ini paling sering dijumpai oleh laptop/komputer yang memiliki ukuran RAM yang rendah.
 
 Hal tersebut bisa disiasati dengan cara mengatur **tmpdir** pada file /etc/yaourtrc, dengan mengubah/menambahkan baris berikut :
 
