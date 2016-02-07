@@ -11,8 +11,8 @@ Balik ke topik utama, jadi setelah 2 hari ini saya berkutat dengan jekyll dan em
 
 Nah, permasalahannya muncul saat saya ingin mengajukan pertanyaan yang berkaitan dengan indihome di twitter, karena saya lagi asik-asiknya menggunakan terminal ( sebenarnya udah lama asik, tapi akhir2 ini pake terminal hanya buat update system doang :trollface:) saya search dah di google dengan keyword **`twitter cli`**, dan akhirnya ketemu ini [github.com/sferik/t](https://github.com/sferik/t). Itu tool yang jelas gunanya buat update status di twitter, tapi yang kerennya dari tool ini yaitu :
 
-* unfollow orang yang kita follow tapi ga follow kita
-* unfollow beberapa orang yang udah lama ga update status di twitter
+* bisa unfollow orang yang kita follow tapi ga follow kita
+* bisa unfollow beberapa orang yang udah lama ga update status di twitter
 * dan lain lain.
 
 sekarang bagi yang tertarik silahkan ikutin step step berikut.
