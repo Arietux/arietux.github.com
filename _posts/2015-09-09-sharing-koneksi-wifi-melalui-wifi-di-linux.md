@@ -4,6 +4,13 @@ title: sharing koneksi Wi-Fi melalui Wi-Fi di linux
 description: share internet wifi melalui wifi
 keywords: hotspot, sharing, linux, wifi
 ---
+* kronologi
+* Persyaratan
+* Tools
+* Dependensi
+* Instalasi
+* Cara penggunaan
+{:toc}
 
 "*Sharing koneksi wifi melalui wifi ?*" bingung maksudnya ? atau kalimat tersebut pernah terlintas di pikiran anda ? coba perhatikan percakapan dibawah ini bagi yang masih bingung sama judul yang saya buat.
 
@@ -103,7 +110,8 @@ Sekianlah dari saya atas artikel ini, semoga bermanfaat bagi anda. Saya mohon ma
 Terimakasih.
 
 Referensi :  
-kunjungin https://github.com/oblique/create_ap  
+
+https://github.com/oblique/create_ap  
 http://superuser.com/questions/649220/a-wifi-ap-with-a-single-nic  
 https://wiki.archlinux.org/index.php/Software_access_point#Requirements  
 http://askubuntu.com/questions/72989/how-to-share-my-wifi-internet-via-wifi

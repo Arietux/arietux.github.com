@@ -3,7 +3,12 @@ encoding:         UTF-8
 markdown:         kramdown
 kramdown:
   input:          GFM
-  syntax_highlighter: rouge
+  auto_ids:       true
+  footnote_nr:    1
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+
+highlighter: rouge
 #markdown:         redcarpet
 #redcarpet:
 #  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

@@ -176,6 +176,17 @@ pre code {
   background-color: transparent;   
   color: inherit;
 }
+
+/* table of content */
+#markdown-toc {
+    border: 1px solid #DBC6C6;
+    border-radius: 5px;
+    max-width: 200px;
+    padding: 10px 30px;
+    background: #F6F6F6 none repeat scroll 0% 0%;
+    font-size: 90%;
+    font-family: Ubuntu Mono;
+}
 /* emoji sejajar dengan baris */
 .emoji {
     display: inline;
