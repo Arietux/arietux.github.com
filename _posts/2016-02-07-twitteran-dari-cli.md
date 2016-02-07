@@ -54,8 +54,8 @@ setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:
 
 **Update Status :**
 
-![update status]({{ site.baseurl }}/images/201602/ss1.png)
+![]({{ site.baseurl }}/images/201602/ss1.png)
 
 **check timeline :**
 
-![check timeline]({{ site.baseurl }}/images/201602/ss2.png =300x)
+![]({{ site.baseurl }}/images/201602/ss2.png =300x)
