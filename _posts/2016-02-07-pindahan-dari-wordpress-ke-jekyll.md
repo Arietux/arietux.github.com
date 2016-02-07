@@ -1,7 +1,7 @@
 ---
 layout : post
 title : Pindahan dari wordpress
-descriptions : pindahan dari wordpress ke jekyll
+description : pindahan dari wordpress ke jekyll
 keywords : wordpress, jekyll
 ---
 
