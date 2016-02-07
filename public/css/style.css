@@ -187,11 +187,9 @@ pre code {
     }
 .notes .post-list-date {
     float: left;
-    font-size: 90%;
     margin-right: 5px;
 }
 .notes .text-truncate {
-    font-size: 90%;
     text-transform: lowercase;
 }
 /* pagination */
@@ -307,7 +305,7 @@ tbody tr:nth-child(odd) th { background-color: #f9f9f9 }
 }
 .post-list {
     margin: 0 0 .75em;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 .project-list {
     font-size: 1em;

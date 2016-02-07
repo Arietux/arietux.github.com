@@ -103,7 +103,7 @@ Sekianlah dari saya atas artikel ini, semoga bermanfaat bagi anda. Saya mohon ma
 Terimakasih.
 
 Referensi :  
-https://github.com/oblique/create_ap  
+kunjungin https://github.com/oblique/create_ap  
 http://superuser.com/questions/649220/a-wifi-ap-with-a-single-nic  
 https://wiki.archlinux.org/index.php/Software_access_point#Requirements  
 http://askubuntu.com/questions/72989/how-to-share-my-wifi-internet-via-wifi
