@@ -176,6 +176,11 @@ pre code {
   background-color: transparent;   
   color: inherit;
 }
+/* emoji sejajar dengan baris */
+.emoji {
+    display: inline;
+    margin-bottom: 0px;
+}
 /* archive */
 .posts.notes {
     margin-left: 70px;
