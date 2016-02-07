@@ -57,4 +57,4 @@ setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:
 
 *check timeline*
 
-![check timeline]({% site.baseurl %/images/201602/ss2.png})
+![check timeline]({% site.baseurl %/images/201602/ss2.png})s
