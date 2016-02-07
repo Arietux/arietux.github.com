@@ -1,8 +1,8 @@
 ---
 layout: default
 title : Archives
-description: An archive of this blog's post.
-keywords: blog archive, archive
+description: An archives of this blog's post.
+keywords: blog archives, archive
 ---
 
 <div class="posts notes">
