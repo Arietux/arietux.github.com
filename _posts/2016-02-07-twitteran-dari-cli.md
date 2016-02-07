@@ -48,7 +48,7 @@ lanjut jalankan script dibawah ini di terminal, kemudian ikutin instruksi yang m
 	t authorize
 
 
-setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:. Dan untuk panduan lengkapnya silahkan saja langsung kunjungi [github.com/sferik/t](https://github.com/sferik/t).
+setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:. Dan untuk panduan lengkapnya silahkan saja langsung kunjungi [github.com/sferik/t](https://github.com/sferik/t#configuration).
 
 #### berikut beberapa screenshot penggunaannya.
 
