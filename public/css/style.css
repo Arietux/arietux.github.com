@@ -203,6 +203,14 @@ pre code {
 .notes .text-truncate {
     text-transform: lowercase;
 }
+/* page - navigation */
+#page-navigation {
+    width: 100%;
+    margin: 15px 0px 35px;
+}
+#page-navigation div.next {
+    float: right;
+}
 /* pagination */
 .pagination {
     clear:both;
@@ -215,7 +223,7 @@ pre code {
     text-transform: uppercase;
     letter-spacing: 1px;
     display: inline-block;
-    padding-left: 10px;
+    padding-right: 10px;
 }
 .next {
     text-align: right;
@@ -304,7 +312,7 @@ tbody tr:nth-child(odd) th { background-color: #f9f9f9 }
     font-family: consolas;
 }
 .page,
-.post { margin-bottom: 4em }
+.post { margin-bottom: 0em }
 .post img {
     margin: auto;
 }
