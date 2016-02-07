@@ -39,15 +39,14 @@ gem install t
 #### configure gem path
 isikan baris ini di shell konfigurasi (bashrc/zshrc)
 
-```
-export PATH="$PATH:$(ruby -rubygems -e "puts Gem.user_dir")/bin"
-```
+	export PATH="$PATH:$(ruby -rubygems -e "puts Gem.user_dir")/bin"
+
 
 #### konfig t (twitter cli)
 lanjut jalankan script dibawah ini di terminal, kemudian ikutin instruksi yang muncul.
-```
-t authorize
-```
+
+	t authorize
+
 
 setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:. Dan untuk panduan lengkapnya silahkan saja langsung kunjungi [github.com/sferik/t](https://github.com/sferik/t).
 
@@ -59,4 +58,4 @@ setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:
 
 *check timeline*
 
-![check timeline]({{ site.baseurl }}/images/201602/ss2.png})
+![check timeline]({{ site.baseurl }}/images/201602/ss2.png)
