@@ -38,6 +38,7 @@ gem install t
 
 #### configure gem path
 isikan baris ini di shell konfigurasi (bashrc/zshrc)
+
 ```
 export PATH="$PATH:$(ruby -rubygems -e "puts Gem.user_dir")/bin"
 ```
