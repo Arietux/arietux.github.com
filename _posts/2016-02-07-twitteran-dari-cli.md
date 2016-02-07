@@ -52,10 +52,10 @@ setelah toolnya di autorize, sekarang kamu bisa *Twitteran dari cli* :trollface:
 
 #### berikut beberapa screenshot penggunaannya.
 
-*Update Status*
+**Update Status :**
 
 ![update status]({{ site.baseurl }}/images/201602/ss1.png)
 
-*check timeline*
+**check timeline :**
 
 ![check timeline]({{ site.baseurl }}/images/201602/ss2.png)
