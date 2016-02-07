@@ -1,15 +1,15 @@
 encoding:         UTF-8
 
-#markdown:         kramdown
-#kramdown:
-#  input:          GFM
-#  syntax_highlighter: rouge
-markdown:         redcarpet
-redcarpet:
-  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter:      pygments
-
-permalink:        none
+markdown:         kramdown
+kramdown:
+  input:          GFM
+  syntax_highlighter: rouge
+#markdown:         redcarpet
+#redcarpet:
+#  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+#highlighter:      pygments
+paginate:            10
+permalink:           pretty
 version:          2.1
 
 title:            "Arie Setiawan"
@@ -28,3 +28,6 @@ twitter:
   username:       afterNewbie
 
 google_analytics: UA-66656535-3
+gems:
+  - jekyll-paginate
+  - jemoji

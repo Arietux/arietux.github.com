@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+<!-- For recent post
 <div class="posts">
   <div class="hrhead"></div>
   {% for post in site.posts limit:5 %}
@@ -13,4 +13,33 @@ title: Home
     </div>
   {% endfor %}
   <a class="more-notes" href="/notes.html">more notes</a>
+</div>
+-->
+<div class="hrhead"></div>
+{% for post in paginator.posts %}
+<div id="posts">
+    <div class="post-list">
+      <div class="post-list-date"><small>{{ post.date | date: "%b %d, %Y" }}</small></div>
+	    <div class="text-truncate"><a href="{{ post.url }}">{{ post.title }}</a></div>
+      <div class="post-list-desc">{{ post.description }}</div>
+    </div>
+
+</div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <div class="back"><a href="{{ site.baseurl }}/page{{paginator.next_page}}"><i class="fa fa-chevron-left"></i> Prev</a></div>
+  {% else %}
+    <div class="back"><i class="fa fa-chevron-left"></i> Prev</div>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <div class="next"><a href="/">Next <i class="fa fa-chevron-right"></i></a></div>
+    {% else %}
+      <div class="next"><a href="{{ site.baseurl }}/page{{paginator.previous_page}}">Next <i class="fa fa-chevron-right"></i></a></div>
+    {% endif %}
+  {% else %}
+    <div class="next">Next <i class="fa fa-chevron-right"></i></div>
+  {% endif %}
 </div>

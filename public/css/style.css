@@ -176,6 +176,40 @@ pre code {
   background-color: transparent;   
   color: inherit;
 }
+/* archive */
+.posts.notes {
+    margin-left: 70px;
+    }
+.notes .post-list-date {
+    float: left;
+    font-size: 90%;
+    margin-right: 5px;
+}
+.notes .text-truncate {
+    font-size: 90%;
+    text-transform: lowercase;
+}
+/* pagination */
+.pagination {
+    clear:both;
+    position:relative;
+    text-align:center;
+    margin-top: 40px;
+}
+.back {
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding-left: 10px;
+}
+.next {
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding-left: 10px;
+}
 /* Pygments via Jekyll */
 .highlight {
   margin-bottom: 1rem;
@@ -444,11 +478,6 @@ a.more-projects:hover {
     border: 0px solid #777;
     background: #CE2C2C;
     color: #fff;
-}
-.back {
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 1px;
 }
 .footer-social-links {
     font-size: 14px;
