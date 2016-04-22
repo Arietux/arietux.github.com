@@ -1,7 +1,7 @@
 ---
 layout : post
-title : Maafin - Pengenalan
-description : Pengelanan cerita dengan judul maafin.
+title : Maafin - Goblok
+description : Goblok ?
 keywords : cerita, kisah, maafin
 ---
 
