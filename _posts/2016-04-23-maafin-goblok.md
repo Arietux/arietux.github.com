@@ -19,6 +19,7 @@ Gw : dah ah -_-
 
 Parjok memang gini dia kadang-kadang, ada begok begoknya sikit. Tapi itu dulu sih, sekarang doi nambah pinter gan ( ada alasannya nih ) tapi ntar aja gw ceritain.
 
+```
 Dery : Wowowow ada bidadari di sebelah pak dodik, wowowow. ( siapakah dery ? )
 Pak Dodik : Pagi anak anak, bapak bawa cewe cakep nih, dia pindahan dari kelas Unggul. 
 Murid : Pagi paak.
@@ -28,6 +29,7 @@ Pak Dodik : Wi, silahken perkenalkan dirimu di kelas ini
 Wi : Nama saya Dewi, saya pindahan dari kelas unggul. Terima kasih.
 Ernis : Woi goblok lu ya sampe pindah kesini haaaaahaha `nih anak memang rada songong sih`
 Pak Dodik : yaudah wi, kamu duduk bareng elva aja tuh.
+```
 
 Jadi, siapakah dery ? dan siapakah dewi ? Kenapa parjok bisa ganteng ? Kenapa ernis songong ?
 
