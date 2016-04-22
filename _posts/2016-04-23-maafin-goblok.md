@@ -10,13 +10,13 @@ Jujur, di kelas gw semua cewe biasa aja menurut gw. Tapi ada sih yang pinter, na
 Ohiya, gw lupa ceritain ke lo pada, hari ini itu adalah hari pertama kami memasuki kelas XII, dimana gw lihat semua murid pada sibuk sendiri. Sedangkan gw dan parjok santai di tempat duduk paling belakang sebelah kanan. Gw dan parjok ngeliatin pemandangan di luar jendela ( karena tokoh utama itu selalu duduk di sebelah jendela ). `Whuuuufttssssss` Tiba tiba angin berhembus setelah seorang gadis putih nan jelita melewati lorong kelas.
 
 Gw dan parjok terpelongo melihat gadis tersebut, tapi kok tuh cewe sama pak dodik sih ( bertanya dalam batin ).
-
+```
 Gw : jok, kok doi sama pak dodik ?
 Parjok : entah, lo kira gw andigo ?
 Gw : indigo begok hhahaha .
 Parjok : yaudah kan yang begok indigo, bukan andigo. kok elu bilang begoknya ke arah gw sih. ( tampang muka herp )
 Gw : dah ah -_-
-
+```
 Parjok memang gini dia kadang-kadang, ada begok begoknya sikit. Tapi itu dulu sih, sekarang doi nambah pinter gan ( ada alasannya nih ) tapi ntar aja gw ceritain.
 
 ```
