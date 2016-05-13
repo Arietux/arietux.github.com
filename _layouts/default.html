@@ -2,13 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="no-js">
 
   {% include head.html %}
-		<script>
-			(function($) {
-				$(document).ready(function() {
-					$.slidebars();
-				});
-			}) (jQuery);
-		</script>
   <body>
 
     <div class="sb-site wrap">
@@ -18,20 +11,6 @@
             <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h2>
-        <div class="sb-slidebar sb-left">
-        <div class="master-nav">
-	<div class="nav">
-            <ul class="top-menu">
-              <li><a href="/">// HOME</a></li>
-              <li><a href="/about">// ABOUT</a></li>
-              <li><a href="/archives">// ARCHIVES</a></li>
-              <li><a href="/resume">// RESUME</a></li>
-              <li><a href="http://arietux.github.io/my-repos/">// REPOSITORIES</a></li>
-              <li><a href="http://arietux.github.io/my-gists/">// GISTS</a></li>
-            </ul>
-        </div>	
-        </div><!-- Your left Slidebar content. -->
-	</div>
 	
         <div class="master-nav">
         <div class="nav">
@@ -47,7 +26,24 @@
       </div>
         </div>
       </div>
-
+      
+        <div class="sb-slidebar sb-left">
+            <ul class="top-menu">
+              <li><a href="/">// HOME</a></li>
+              <li><a href="/about">// ABOUT</a></li>
+              <li><a href="/archives">// ARCHIVES</a></li>
+              <li><a href="/resume">// RESUME</a></li>
+              <li><a href="http://arietux.github.io/my-repos/">// REPOSITORIES</a></li>
+              <li><a href="http://arietux.github.io/my-gists/">// GISTS</a></li>
+            </ul><!-- Your left Slidebar content. -->
+	</div>
+      		<script>
+			(function($) {
+				$(document).ready(function() {
+					$.slidebars();
+				});
+			}) (jQuery);
+		</script>
       <div class="container content">
         {{ content }}
       </div>
