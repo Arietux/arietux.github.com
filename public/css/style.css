@@ -146,7 +146,8 @@ pre {
   font-family: "Ubuntu Mono",Monaco;
 }
 code {
-  font-size: .8rem;
+  font-size: .9rem;
+  font-weight: bold;
   color: #bf616a;
   background-color: #f5f5f5;
   border-radius: 3px;
@@ -171,7 +172,8 @@ pre code {
   margin: 0;
   padding-right: 1rem;
   overflow: auto;
-  font-size: 85%;
+  font-size: 100%;
+  font-weight: 300;
   color: inherit;
   background-color: transparent;   
   color: inherit;
@@ -580,9 +582,7 @@ a.more-projects:hover {
 }
 @media only screen and (max-width : 400px) {
 /* my code */
-pre code {
-    font-size : 100%;
-}
+
   .grid-sizer,
   .grid-item {
       /*
