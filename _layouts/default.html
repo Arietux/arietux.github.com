@@ -4,28 +4,11 @@
   {% include head.html %}
   <body>
 
-    <div class="sb-site wrap">
-    	        <div class="sb-slidebar sb-left">
-            <ul class="top-menu">
-              <li><a href="/">// HOME</a></li>
-              <li><a href="/about">// ABOUT</a></li>
-              <li><a href="/archives">// ARCHIVES</a></li>
-              <li><a href="/resume">// RESUME</a></li>
-              <li><a href="http://arietux.github.io/my-repos/">// REPOSITORIES</a></li>
-              <li><a href="http://arietux.github.io/my-gists/">// GISTS</a></li>
-            </ul><!-- Your left Slidebar content. -->
-	</div>
-      		<script>
-			(function($) {
-				$(document).ready(function() {
-					$.slidebars();
-				});
-			}) (jQuery);
-		</script>
+    <div class="wrap">
       <div class="masthead">
         <div class="container">
           <h2 class="masthead-title">
-            <a class="sb-toggle-left" href="#" title="Home">{{ site.title }}</a>
+            <a href="/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h2>
 	
