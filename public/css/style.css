@@ -556,8 +556,9 @@ a.more-projects:hover {
     .footer { max-width: 38rem }
 }
 @media only screen and (max-width:1200px) {
-    .container,
-    .footer { max-width: 38rem }
+.master-nav {
+    display:none;
+}
         .masthead {
         background : black;
         
