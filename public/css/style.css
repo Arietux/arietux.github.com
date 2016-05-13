@@ -546,14 +546,6 @@ a.more-projects:hover {
     float: left;
     margin: 0 0 10px 0;
 }
-@media only screen and (max-width:2000px){
-    .masthead {
-        background : black;
-    }
-    .masthead-title {
-        text-align: left;
-    }
-}
 @media only screen and (min-width:768px) {
     html { font-size: 20px }
     .container,
@@ -562,6 +554,14 @@ a.more-projects:hover {
 @media only screen and (min-width:1200px) {
     .container,
     .footer { max-width: 38rem }
+        .masthead {
+        background : black;
+        
+    }
+    .masthead-title {
+        text-align: left;
+        color : white;
+    }
 }
 @media (min-width: 30.1em) {
     .text-truncate {
