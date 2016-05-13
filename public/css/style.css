@@ -582,7 +582,41 @@ a.more-projects:hover {
 }
 @media only screen and (max-width : 400px) {
 /* my code */
+.callbtn {
+display:block;
+background: #32cbff;
+padding: 0.2em;
+width: 6em;
+-moz-border-radius:0.5em; /* 8px */
+-webkit-border-radius:0.5em; /* 8px */
+-o-border-radius:0.5em; /* 8px */
+}
+.callbtn a{
+display: block;
+width: 6.25em; /* 120px */
+background-color:#32cbff;
+text-align: center;
+-moz-border-radius:0.5em; /* 8px */
+-webkit-border-radius:0.5em; /* 8px */
+-o-border-radius:0.5em; /* 8px */
+border-radius:0.5em; /* 8px */
+border: 1px dashed #bfe2f9;
+color:#fff;
+font-size:0.75em; /* 12px */
+font-weight:bold;
+padding:0.375em 0.75em; /* 6px 12px */
+text-decoration:none;
+font-family: helvetica;
+}
 
+.callbtn a:hover {
+background-color:#444;
+}
+
+.callbtn a:active {
+position:relative;
+top:1px;
+}
   .grid-sizer,
   .grid-item {
       /*
